@@ -32,3 +32,5 @@ bash
 git add .
 git commit -m "Update project"
 git push origin master
+7. 出现SSL certificate problem: unable to get local issuer certificate问题执行如下
+git config --global http.sslBackend "schannel"  # Windows系统

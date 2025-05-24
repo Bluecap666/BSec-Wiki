@@ -107,7 +107,8 @@ module.exports = {
             children: [
               'sidebar-2/sub-sidebar-1/sub-sub-sidebar-1/',
               'sidebar-2/sub-sidebar-1/sub-sub-sidebar-2/',
-              'sidebar-2/sub-sidebar-1/sub-sub-sidebar-3/'
+              'sidebar-2/sub-sidebar-1/sub-sub-sidebar-3/',
+              'sidebar-2/sub-sidebar-1/sub-sub-sidebar-4/'
             ]
           },
           {
